@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #c9c9c9;
+    color: #000000;
+    margin: 0;
+    padding: 0 20px;
+}
+
+#nome {
+    font-family: 'Lora', serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    color: #0022ff;
+    text-decoration: underline;
+}
+
+.contato {
+    font-style: normal;
+}
+
+.texto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    color: #0022ff;
+    margin-top: 1em;
+}
+
+a[href] {
+    color: #0022ff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0022ff;
+    text-decoration: underline;
+}
+
+.footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #0022ff;
+    font-style: oblique;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+.github {
+    font-style: italic;
+}
